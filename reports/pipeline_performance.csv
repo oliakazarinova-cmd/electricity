@@ -1,0 +1,2 @@
+fit_time_sec,forecast_time_sec_h168,forecast_time_per_step_ms,n_train_rows_after_features,n_features,horizon_hours,python_version
+3.4957744000130333,0.16605180001351982,0.9884035715090466,36638,16,168,3.11.0

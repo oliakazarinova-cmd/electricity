@@ -1,0 +1,4 @@
+test,statistic,p_value
+residual_mean_ttest,-3.1713082486234607,0.001806011606988372
+ljung_box_lag_24,451.83081627716865,1.5849275098143492e-80
+wilcoxon_abs_error_vs_seasonal_naive,4139.0,1.3903883347608853e-06
